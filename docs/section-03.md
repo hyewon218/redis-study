@@ -1,4 +1,4 @@
-# AWS Elasticache for memcached
+# AWS Elasticache for Memcached
 ## vpc 설정
 ### vpc 생성
 <img src="https://github.com/hyewon218/kim-jpa2/assets/126750615/e550b1c1-0274-4581-97ed-0ea39b5868ff" width="60%"/><br>
@@ -74,7 +74,7 @@
 
 <br>
 
-### 설정
+### 캐싱 설정
 <img src="https://github.com/hyewon218/kim-jpa2/assets/126750615/29125fb1-eab6-463e-962b-a332c98834b8" width="60%"/><br>
 -  ```shell
    set a 0 10 5
@@ -82,3 +82,7 @@
 - 0 : 이 다음 글자부터
 - 10 : 10초 동안 저장
 - 5 : 다섯글자
+
+<img src="https://github.com/hyewon218/kim-jpa2/assets/126750615/d49bfa2a-27c1-42fe-bbee-91140ce30aa1" width="30%"/><br>
+- 나가는 방법 : `ctrl + 중괄호`
+- `q`
